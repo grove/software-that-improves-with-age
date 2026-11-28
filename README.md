@@ -21,6 +21,8 @@ The essays can be read independently, though they build on one another in the or
 9. **[The economics of removing software](./essays/the-economics-of-removing-software.md)** — Addresses the growing asymmetry between adding and deleting code when implementation is cheap, and how teams can practice deliberate subtraction to keep systems small enough to understand.
 10. **[Software that improves with age](./essays/software-that-improves-with-age.md)** — Brings the collection together around two feedback loops, examining how cheaper implementation can accelerate decay or feed a self-reinforcing cycle in which a system's accumulated experience becomes an engineering asset rather than a liability.
 
+11. **[Software design after implementation scarcity](./essays/software-design-after-implementation-scarcity.md)** — Reconsider duplication, abstraction, extensibility, replaceability and standardization when the cost of implementation changes.
+
 ## Companion collection
 
 **[Engineering that compounds](https://grove.github.io/engineering-that-compounds/)**
